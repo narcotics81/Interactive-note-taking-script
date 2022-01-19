@@ -118,6 +118,7 @@ sleep 1
   echo "24 / 2 = 2"
   echo "So using P.E.M.D.A.S, python breaks the equation down to"
   echo "216 + 2 - 7 = 211"
+  echo "To exit the python ide just type exit() to go back to the main menu"
   echo "That should be enough to get you started. If you are interested in learning"
   echo "More, there are plenty of good resources online that you can check out."
   echo "And without any more waiting, lets do some math."
